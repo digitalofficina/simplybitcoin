@@ -1,2 +1,2 @@
-# simplybitcoin
+# Simplybitcoin
 # Bitcoin spiegato semplice
